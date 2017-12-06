@@ -1,0 +1,9 @@
+{"eid":"00001914238535","time":1496246413,"placeId":90,"address":"木桥港北区西大门","longitude":300.0,"latitude":300.0}
+{"eid":"33041100028592","time":1496301877,"placeId":266,"address":"新昌苑9幢","longitude":350.0,"latitude":276.0}
+{"eid":"33041100015938","time":1496332700,"placeId":84,"address":"木桥港北区南大门","longitude":300.0,"latitude":400.0}
+{"eid":"33041100013096","time":1496285427,"placeId":146,"address":"向阳桥","longitude":250.0,"latitude":624.0}
+{"eid":"33041100002206","time":1496273822,"placeId":11,"address":"王江泾医院","longitude":300.0,"latitude":300.0}
+{"eid":"33041100029449","time":1496332668,"placeId":199,"address":"恒诺公司北大门处","longitude":280,"latitude":100}
+{"eid":"33041100028134","time":1496332658,"placeId":63,"address":"长虹路闻川路口","longitude":600.0,"latitude":7000.0}
+{"eid":"33041100006339","time":1496301901,"placeId":151,"address":"兴乐路庆元路口1","longitude":256.0,"latitude":287.0}
+{"eid":"33041100013933","time":1496332717,"placeId":266,"address":"新昌苑9幢","longitude":300.675934,"latitude":260.681563}
