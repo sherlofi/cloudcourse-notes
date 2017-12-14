@@ -40,7 +40,7 @@ kafka-topics --delete --zookeeper server18:2181 --topic topic0
 ##彻底删除topic方法0
 
 ```
-bin/kafka-run-class.sh kafka.admin.DeleteTopicCommand --zookeeper node01:2181 --topic t_cdr
+kafka-run-class.sh kafka.admin.DeleteTopicCommand --zookeeper server18:2181 --topic t_cdr
 // 删除topic，慎用，只会删除zookeeper中的元数据，消息文件须手动删除
 ```
 
