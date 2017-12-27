@@ -41,4 +41,15 @@
   count ['table_name']		//count table
   ````
 
+- ```
+  disable ['table_name'] //to drop a table, you must disable it first
+  drop ['table_name']
+  ```
+
+- ```
+  scan 'Record1',{STARTROW => '33041100000776##0',ENDROW => '33041100000776##2'}
+  scan 'Record1',{STARTROW => '33041100000776##14963325',ENDROW => '33041100000776##14963327'}
+  ```
+
 - ​
+
