@@ -3,5 +3,7 @@
   ```
   git pull origin master --allow-unrelated-histories
   ```
-
-  ​
+***
+```
+git ls-files
+```
